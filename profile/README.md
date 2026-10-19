@@ -1,3 +1,3 @@
-# Green Earth Social
+# MySky Social
 
-See https://www.greenearth.social/ for more information.
+See https://www.mysky.social/ for more information.
